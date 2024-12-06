@@ -1,0 +1,37 @@
+# # #   Copyright PDGH Minecraft Servers & HostLoad c 2013-XXXX   # # #
+# # #                Todos os direitos reservados!                # # #
+# # #   Uso apenas para a PDGH.com.br e https://HostLoad.com.br   # # #
+# # # Caso vocà tenha acesso a esse sistema,vocà Ç privilegiado! # # #
+grupos:
+  sniper:
+    limitesHotbar: 1
+	armas:
+	- 258
+	- 286
+	erro: '&cê poss°vel atirar apenas com a primeira &aSniper&c que j† est† em sua hotbar.'
+  rifle:
+    limitesHotbar: 1
+	armas:
+	- 2256
+	- 2264
+	- 290
+	- 291
+	- 292
+	- 294
+	- 352
+	erro: '&cê poss°vel atirar apenas com o o primeiro &aRifle/Sub&c que j† est† em sua hotbar.'
+  pistola:
+    limitesHotbar: 1
+	armas:
+	- 2259
+	- 359
+	erro: '&cê poss°vel atirar apenas com o a primeira &aPistola&c que j† est† em sua hotbar.'
+  shotgun:
+    limitesHotbar: 1
+	armas:
+	- 285
+	- 257
+	- 279
+	- 284
+	- 256
+	erro: '&cê poss°vel atirar apenas com o a primeira &aShotgun/RPG&c que j† est† em sua hotbar.'
